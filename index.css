@@ -1,0 +1,28 @@
+h1 {
+    color: #e65965;
+}
+
+table {
+    color: white;
+    overflow-x: auto;
+
+}
+
+tr:nth-child(-n+7) {
+    background-color: #dd8aa2;
+}
+
+tr:first-child {
+    background-color: #393659;
+}
+
+tr:nth-child(n+8) {
+    background-color: #768ab2;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #393659;
+    color: white;
+}
